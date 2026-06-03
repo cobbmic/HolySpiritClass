@@ -1,0 +1,236 @@
+# Class 10: Cornelius and the Gentile Breakthrough
+
+**Original transcript:** `hs10.txt`
+
+**Summary:** The Cornelius account in Acts 10-11 is treated as another decisive bridge. God uses visions, Peter's reluctant obedience, the Spirit's visible coming, and the church's response to show that Gentiles are received without becoming Jews.
+
+### Key Scripture References
+
+- [Acts 10:1-48](https://www.biblegateway.com/passage/?search=Acts+10%3A1%E2%80%9348&version=NIV)
+- [Acts 11:1-18](https://www.biblegateway.com/passage/?search=Acts+11%3A1%E2%80%9318&version=NIV)
+- [Leviticus 20:25-26](https://www.biblegateway.com/passage/?search=Leviticus+20%3A25%E2%80%9326&version=NIV)
+- [Mark 7:18-19](https://www.biblegateway.com/passage/?search=Mark+7%3A18%E2%80%9319&version=NIV)
+- [Acts 2](https://www.biblegateway.com/passage/?search=Acts+2&version=NIV)
+- [Acts 19:1-7](https://www.biblegateway.com/passage/?search=Acts+19%3A1%E2%80%937&version=NIV)
+
+### Quotations and Source Notes
+
+> Peter realizes that God does not show favoritism but accepts people from every nation.
+>
+> -- [Acts 10:34-35](https://www.biblegateway.com/passage/?search=Acts+10%3A34%E2%80%9335&version=NIV). Version not stated in the audio; class wording is NIV-like.
+
+> Peter compares the Spirit's coming on Cornelius's household to the beginning at Pentecost.
+>
+> -- [Acts 11:15-18](https://www.biblegateway.com/passage/?search=Acts+11%3A15%E2%80%9318&version=NIV). Version not stated in the audio; class wording is NIV-like.
+
+### Cleaned Transcript
+
+::: {#class-10-p001}
+All the effects that Satan has put on the planet of the earth and all the people and reversing the curse. And there's a war going on here. And it is through the empowerment of the spirit that we can take on that battle. And that's what you should be seeing here. Now, first Gentiles, again, anyway, I know to help you understand this, and when we get to the end, you see the spirit coming in in the unique event that we really want to focus on. But I've got to take the time to give you the focus of the context.
+:::
+
+::: {#class-10-p002}
+Okay, now, if I were to title this thing, I would call this like the movie that I've seen a thousand times over because I have two daughters called Pride and Prejudice. I guess I would subtitle it, God working outside the bubble. Because we're going to see here that God is very manifestly forcing an issue. He is very demonstrative in taking the initiation in an irrefutable ways and very visible ways to force something to happen. Again, I've already begun to say this is not a normal event.
+:::
+
+::: {#class-10-p003}
+How is God going to bridge the Jewish Christians who are now, you know, been large-hearted and received in the Samaritan mixed-breed Jewish culture into the kingdom of God? Now how are they going to bridge this to the Gentiles? Well, this is basically, that's, I think, the story and why Luke picked this particular conversion experience that took place up in Caesarea. We start right there, it was a port city, just so you know, it was named after Caesar Augustus. It was the largest, most important Roman city in Palestine. And for that very reason, it was one of the most hated pieces of landscape in Palestine by the Jews.
+:::
+
+::: {#class-10-p004}
+What I find interesting is this is where God chose to tap someone on the shoulder who was a non-Christian, you want to talk about it outside the Christian bubble and you couldn't have gotten farther and makes this happen. So if you got your Bible, I told you to bring them, I hope you're sitting next to them if you don't have your own. If you want to go back more obviously, I'd be glad I got a few of them back there, turn back chapter 10, let's walk this very quickly and let's see if I can get you to do. Your first of all, you're introduced to a person there in Caesarea. His name is Cornelius.
+:::
+
+::: {#class-10-p005}
+Now what do you know about Cornelius, just real quickly? Okay, it's a Roman centurion and so this guy is a Greek, now what is the normal religious framework of a Roman centurion across the globe here, a polytheism, okay, they believe in a multiplicity of all the mythology of Greek mythology, that's their view of God. Now this guy's different though because he's called a God fear, now tell me what a God, this is very important, what is a God fear? What differentiates him from being a typical, which would define that the normal everyday buddy for Cornelius, they're probably in Caesarea, but he's very, very unique and very, very, he's in a very small gathering of people, uniquely identified as God fears. God fears were, okay, they believe in one God who's God, there's all sorts of God, which one they're choosing, Poseidon, Asclepius, Aphrodite, the God of Abraham, Isaac and Jacob, they believe in the one God of the Jews, Lord your God is one and he believes it too.
+:::
+
+::: {#class-10-p006}
+They've converted in terms of their theism, they've converted to Judaism, but there was a difference between a God fear and actual Gentile convert, Gentile convert, actually if you were a male you went through the circumcision, which probably kept a lot of them from doing it, they just stayed God fears and they began to worship the one God, they would go to the synagogue, they were respected by the Jews in that area where they went, they were even allowed to go to Jerusalem, remember there was even a place for them there in the temple area called the court of Gentile, they couldn't go farther than that, but they could go into the outer way so they could be kind of close to God. And so you have a God fear, whereas the converts actually, not only were they circumcised, they went through a proselyte baptism, they actually took them, I find very interesting, and they would immerse them in water, and it showed their entry into becoming full-fledged Jews, so they were Gentiles who had converted thoroughly to Judaism, but this guy is a guy who hasn't been through proselyte, he's a God fear, a unique group of people who believed and they already believed in the one God, so God tapping his shoulder if someone who's already taken a very significant step, but he's still a Gentile and he's still not a believer in Jesus.
+:::
+
+::: {#class-10-p007}
+Okay, now he goes on and says some things about him, he says this guy was really giving, this guy had a real heart for the poor, this guy prayed all the time, and so this is the guy that God chose, obviously you already see some sense of character and spirituality about this guy. Now here's where the unique things happen, obviously God demonstratively initiates and steps in and taps him on the shoulder in very significant ways, giving him a vision, and what's the vision, come with the vision of it, starts around inside chapter 3 and chapter 3 and the angel shows up and says what, okay, there's this guy, Peter down and Joppa, which we're going to look at in just a moment, and he's got some things that we want you to connect with him.
+:::
+
+::: {#class-10-p008}
+Now that alone since you've caused a pause, now how many times you see in the history of God where he ascends an angel or gives people visions, I mean you look at the experience all the way into the new testament, it's a very rare moment, this does not happen all the time. Again, why is Luke picking this event up because some very unusual, significant things are taking place at this moment. So God is tapping Cornelius on the shoulder, he says I want you to go down the Joppa, so what is he, he picks three guys, he picks two servants which were probably Jews and he says he picks one of his sub commanders and he sends them down on what is the two, about a two day journey, it was around 32 miles down to Joppa, okay.
+:::
+
+::: {#class-10-p009}
+So these guys are on the way, now why these guys are on the way, everything God's playing the double agent. It's about lunchtime, it says, Peter is hungry, this is scene two, and he goes up the roof to pray, which I always find interesting, you know, he's emphasized the prayer of Cornelius and God changes his life in that context, and here's Peter praying and he's about to significantly come into Peter's life during the time of prayer and change things. It might point there just to pragmatics, it really is more important, maybe the history here is, you know, I think that if we really think about it, God uses those moments of prayer to really do some rather significant things in leading us if we're open. And it's not a coincidence that we find it's a moment of prayer when God steps in because the person is already open to God.
+:::
+
+::: {#class-10-p010}
+You have to break in while their mind is traveling elsewhere, their mind is already there with God. Well, now you're listening, let's take you someplace. So what does he do with Peter? He does also some rather significant God intervening supernatural, intervening moments. He gives, as he gave a vision to Cornelius, on the other hand, these guys are traveling down, they're about a day away, and he now gives him a vision, what's the vision? Very significant. It's a vision of... Second? Okay, he's got a drop of blanket down, the bunch of unclean animals, and he goes, hey, Peter, kill and eat, it's supper time, you're hungry, so go at it, this is for you.
+:::
+
+::: {#class-10-p011}
+Now what's Peter thinking? Why is he saying no? Who says? Who says? Who says? Who says? Who says? Who says? Who says? Where? Jewish law. Huh? Jewish law. Jewish law. Go to the Leviticus 20, for example. Jewish law. Jewish law. Jewish law. By the way, do you ever stop to think why in the world did God set that emotion? Well, there's more than one reason, but this is very significant understanding of the story. If all you see is the Jewish dietary laws that God has gave them signed, warped, you know, etiquette, or some sort of a usual culinary interest, that's not the point. To the Jews, a Jewish dietary law is one of the things that gave them very visible, distinctive identity. That's why this was so important to the Jews. Remember, they fought tooth and nail for the dietary law.
+:::
+
+::: {#class-10-p012}
+They were being fed feast off the king's table and they were fused until they were only vegetable and water. Why were they doing this? Because to a Jew, this was life to them. This represented their unique relationship with the God of Israel. So you have to look beyond just the dietary law to what it represented. And it's this issue that God is starting to tap on Peter's shoulder about. It's what created the exclusive feelings that the Jews had about God, excluding everybody else. God did not mean for the dietary law to turn into a pride, prejudiced, exclusive issue. He didn't intend it for it to be an issue of loyalty and identity and purity. But it went beyond that to, they just felt that God belonged to them and nobody else. That was never God's intentions.
+:::
+
+::: {#class-10-p013}
+So now they've gotten this Jewish dietary law which represented their distinction from the Gentile world. And by the way, do you remember in the New Testament when Jesus was around, he's already shattered this issue? In fact, there's even parentheticals made by the gospel writers. When Jesus did this, he was proclaiming all food clean. That was a bombshell in that day. Remember all the ceremonial purifications? Mark chapter seven. When Jesus says, it's not what goes into a man, it makes them unclean. All foods clean. That's irrelevant. It just goes in and comes out. It's what comes out of a man's heart that makes them unclean. And that's where the parenthetical comes in by Mark and the other gospel writers. And when Jesus said this, do you realize the implications? He just made all food clean. All food clean. No dietary law.
+:::
+
+::: {#class-10-p014}
+Not by any relationship with God. No, the Jews maintained their dietary law but it was more cultural than it was spiritual and biblical at that juncture. Now, so you've got the sheet dropped down. Now, what's Peter thinking? God, you're testing me. I know better. I'm a good Jew. Follow the law of my life. That's a dietary law. I know I'm up with these those things. God, why are you tempting me on this? Of course I won't eat this. The sheet goes back up and so God comes back and knocks on the door twice more. He's doing the same thing. Peter, kill and eat. Peter, kill and eat.
+:::
+
+::: {#class-10-p015}
+Then that's it. He comes out of the trance. The dream's over. And guess who's knocking on the door at that moment? About noon. The people of that, that, that, that Cornelius has sent down. Notice the timing of this. That's been set in motion by God. Bridging these people together. Now, now you've got Peter receiving this vision. The question is, did Peter understand the vision at this juncture? Is there anything in the indication that he understands or doesn't understand the vision at this juncture? Some of you are saying, no. There's no indication he understands this yet. He just, he's sitting there scratching his head. Door knocks. Simon the tanner downstairs. They say, hey, Peter. Does someone ever see you?
+:::
+
+::: {#class-10-p016}
+Okay. Walk downstairs, meet these guys. And by the way, they're clearly Gentile. So, you get the next scene. And the next scene is they start talking. And what do they do? They say, well, we came from a guy who's, well, it's all the way up in such a way. He's a Roman centurion. And he had an angel appear to him and sinned for you. Didn't happen every day. Very unique unusual circumstances. Now, what Peter is going to say to that? Okay. Well, then come on in. And by the way, he understands this time. Jews, that includes Jewish Christians. They carried on no association. Fellow shipping with rank, heathen Gentiles. So, Peter is already kind of walking over a very shaky bridge. In his mind and in his heart. But he senses that God's plotting him somewhere, obviously. Now, you're going to see what's neat about the story is how it becomes clear and clear to Peter as you go through the story.
+:::
+
+::: {#class-10-p017}
+God keeps on just taking him along. That's a little baby stuff at a time. Peter just took one little baby stuff towards the Gentiles. That's always going to take, though. That's all he can do at this moment. No. It says, the latter part of verse 23, the day of the chronology started out with them. And so now you've got Peter and these other three guys. And by the way, you'll find out that Peter took some people with him. He took six with him, six Jewish brethren with him. The whole entourage making the trip back up to Caesarea. They get the Cornelius' household. They knock on the door. And it kind of blows Peter away. Luke makes note the whole house is full of Gentiles. Cornelius got everybody in all of his relatives and friends there.
+:::
+
+::: {#class-10-p018}
+Now see, what I want you to see is that God has got Cornelius on page 10. And Peter's still back on page 2. He doesn't get it yet. He just knows that God is wanting me to go here. And I feel very uncomfortable about this because I'm a Jew. And God, am I really supposed to be here? Maybe we're going to have to do with that dream of vision. I've gotten. And so by the time he gets there in verse 27, it says, talking with him, Peter went in and found a large gathering of people. And he said to them, here's the first time you begin to realize that somehow between the visions and the trip up there and now at the door, step inside the living room of Cornelius, he's now beginning to interpret the dream. He says this, God has shown me that I should not call any man impure and clean.
+:::
+
+::: {#class-10-p019}
+Oh, we wasn't about the dietary law. You were talking about people. God, I get it. But now fully. What he gets is, okay, now I can be a liberal Jew and I can hang around some, you know, some of my best friends are hisons. You know what I'm saying? That's Peter right now. And then a little baby step. He walks into the living room. But you notice the first thing Peter says is, by the way, you are quite aware that I'm not supposed to be here. You know, when you go over to someone's house, it's not when you tell them. They invite you over and they're being, they're hosting you, social etiquette, which suggests, thank you for having us, Baba. Peter's first word is, I feel very awkward about this, and I should even be here, but here I am.
+:::
+
+::: {#class-10-p020}
+God has dragged me all the way. Because he cannot deny that God is demonstratively working. He just doesn't know where it's going yet. Now what Cornelius does. So Cornelius said, well, let me tell you the story myself. Just like my servant said, starting in verse 30, he says, look, four days ago, I had a vision. They told me to get you. They sent you here. And then notice. Verse 33, so I sent for you immediately, and it was good for you to come. Now we are all here in the presence of God's notice. To listen to everything, the Lord has commanded you to tell us. All of a sudden, another light goes off. And notice Peter's immediate response to this verse 34, then Peter began to speak, I now realize how true it is. This goes from baby step, baby step, baby step two.
+:::
+
+::: {#class-10-p021}
+He just took a nice big step here. He says, God does not show favoritism, but accepts men from every nation who fear him and do what is right. In other words, the baby step of just getting and accepting social interaction with Gentiles, one thing. But now he realizes, God has brought me here to preach Jesus to you. He brought me to preach Jesus to you. He's about to bring you into the kingdom. Again, this is, you know, we just sit there and we're just so clinical and lackadaisical about this stuff. This was an enormous moment in the history of the church. That's why Luke wants you to pay attention to it. And notice who's orchestrating every bit of this. Very openly, very irrefutably, tangibly visible all along. And it's going to be more tangible here in just a moment. That's where the spirit comes in.
+:::
+
+::: {#class-10-p022}
+So basically, if you pick up in verse 36 and following, what is he doing? He preached the message of Jesus. He talks to him about the miracles of Jesus, the death, the burial, the resurrection, how the Old Testament law predicted Jesus. And he ends his sermon. And now we're about to arrive at our substantial moment. He says, verse 43, all the prophets testify about him. And everyone who believes in him receives forgiveness of sins through his name. And then all of a sudden, bam, it happens.
+:::
+
+::: {#class-10-p023}
+Now here's where we're going to stop for us and slow down and just read the text. Now I want you to look at the thing. Remember our filter? Does it teach subsequent event? Does it teach that there are conditions to be met beyond conversion? And do we understand that speaking in tongues is being taught here as expected visible sign of having received the baptism of Holy Spirit? Okay, now notice what happens. He's in mid-sentence. Verse 44, while Peter was still speaking these words, God rudely interrupts him. He said, the Holy Spirit came on all who heard the message.
+:::
+
+::: {#class-10-p024}
+Now the Jesus message was out on the table by this time. Jesus didn't cut that short. Peter is still going though. You know, sometimes preachers say, you don't know when to shut up. So you know, say it, get down. Verse 45, the circumcised believers who had come with Peter. By the way, we learned later on there were about six of them. Notice their reaction to this. Obviously, we're seeing that they saw something. In other words, it wasn't this quiet, subtle moment where invisibly, non-tangibly, ethereally, they received the Holy Spirit. There was something very open and manifest about this moment where they saw, just like Simon did, that they received the gift of the Holy Spirit. But notice, there's no laying on the hands here, is there? There isn't a apostle there, but there's no laying on the hands. The circumcised believers who had come with him were astonished that the gift of the Holy Spirit had been poured out even on the Gentiles.
+:::
+
+::: {#class-10-p025}
+Now how did they know? How did they know? Look at the text. Reverse 46. Because they each heard them speaking in tongues and praising God. So there is clearly an outward manifestation. By the way, in the book of Acts, this is what number of times that we've encountered specifically the issue, highlights the issue of speaking in tongues. Only the second, in all the book of Acts. Let's tell you something. Think about it. In other words, if Peter's, if Luke's, and one of his intent, going through all this process in Acts is to teach us that our repeatable patterns that people should be expecting is upon a conversion, why is this only cropped up twice in several years of history? With thousands of conversions going on, going on, having gone into the bridge. And none of them mentioning this. One other time this happens was back in Acts chapter 2.
+:::
+
+::: {#class-10-p026}
+A very similar event, by the way. The Spirit of God initiates on its own, BAM, upon the apostles, and they begin to speak in tongues. Here, if we're seeing this happen to the Gentiles. Now, I said that when it came to Samaritan's Remember, it could be the third time, but it's not mentioned specifically by Luke, because it's obviously wasn't his issue. He didn't want to make a point of that. It just simply says that Simon saw that by laying on the apostles' hands that they had received Holy Spirit. The obviously saw some outward manifestation. I think it would be legitimate to say that what he saw was the speaking in tongues. But we don't know because Luke didn't mention that. That's somewhat important there. But I think a fair assumption exegetically, interpretively.
+:::
+
+::: {#class-10-p027}
+All right? Now, so bottom line is, you've got this moment. Now, let me kind of stop here and just add this filter on here. If everyone understood, in terms of the church, what Peter understood when he walked into that living room, and Peter says, praise to us, and Peter goes, I now get it. You're about to become believers, too. You're about to be uttered into the kingdom of God. You're going to cross the bridge. And I'm a guy that's going to do it. And by the way, just so you know in the back of his mind, thinking, how am I going to answer this? Well, my brother and back in Jerusalem, who are going to call me to the carpet on this. But he's going to have courage. And he's going to do what God wants him to do, because this was not an easy thing to do.
+:::
+
+::: {#class-10-p028}
+There was a price to pay when he did this. A lot of anxiety, a lot of judgmentalism, a lot of turbulence in the church when he goes back home. But just stay with me here for this. So he's up there, he's going to do this. And so if everyone understood what Peter knew, that is the impartiality of God, the events that we're about to see, or what we just read, would not have been necessary. In other words, why is God doing all of this? Why so outward, so manifest, so visible, so irrefutable? Well, he's going to have to convince someone. God's already convinced, and Peter's convinced. And Cornelius was way ahead of Peter in understanding this. It's all people back home and don't get it.
+:::
+
+::: {#class-10-p029}
+How are we going to get the church to accept this quantum leap through this major paradigm shift, socially, spiritually, in the Kingdom of God? Well, you see the answer. God sends a spirit in very visible manifest terms. Now, what is interesting to me, frees frame the moment, the spirits come upon them, and the experience is happening. Now, if I'm looking at the charismatic thesis, what I expect Peter to say at this point is this. Hey, since you've had the real experience of the spirit, well, you don't need to be baptized in mere water. That's what I expect in the sight. That's just a symbolic, you know, secondary event. You've got the spirit of God in you, so why bother? But you'll notice that Peter immediately doesn't separate the two issues. He immediately puts them together in a cohesive hold. And remember what we've been teaching all along?
+:::
+
+::: {#class-10-p030}
+We've started in the very first couple of classes about how you receive a spirit. When you receive a spirit, I made a very plan. You look at those tech, Galatians, Ephesians, to come out and put tech. In the beginning, by faith in Jesus Christ, having in the initial stages of hurting hearing the gospel message, end baptism at the New Birth. Now, immediately, Peter says this verse 47. I find it very interesting. Then Peter said, well, you guys see what's going on here? Obviously, God has put his seal of approval upon these Gentiles, so what is there left to do? Well, can anyone keep these people from being baptized with water? No, I can't prevent them. I said, do you, I want to prevent them? The Jewish Christian with all the enmity and prejudice, don't do this. It's not for you, but God says it is.
+:::
+
+::: {#class-10-p031}
+So I have no choice. They have received the Holy Spirit just as we have. And most commentators make special note of this, and it's certainly strike struck me when I read this back many years ago under this filter and trying to think this through, that Peter is going all the way back to the day of Pentecost to find another moment in history that paralleled this one. This is not something that happened every day. And notice then, verse 48. So he ordered that they be baptized in the name of Jesus Christ, and then they asked Peter to stay with them for just a few days.
+:::
+
+::: {#class-10-p032}
+So when he compares this, Peter can only compare to Pentecost. It's not something he's seen every day, and that was 10, 11 years ago. The meaning is surely no one can refuse them water baptism to become children of God. God wants Gentiles as well as Jews to become Christians. Now, quickly to summarize this. You know what happens in chapter 11, don't you? It's part of the same story. It's what took place after Peter went home and got called to the carpet. He goes back to Jerusalem, and they say, Peter, did we hear that gossip correct? Did you? Did you actually go to a Gentiles house? And did you actually praise the messengers of Jesus? Did you actually baptize somebody who has a heathen Greek? And Peter goes, well, yes, let me explain. And if you read chapter 11, it is Peter standing up in front of this almost inquisitional, while intended, but very ignorant court of Christians, Jewish Christians back home in Jerusalem, and pleading his case, explaining to them that this was God's idea, not his.
+:::
+
+::: {#class-10-p033}
+Again, the bridge is not yet gapped yet, because only Peter's walked across it. All the other Christians haven't yet. So how is the rest of the kingdom of God going to follow along and join the rest of the Gentiles now? Of course, it's heaven before Paul is unleashed on him. And so if you get to chapter 11, he's telling the story, if you get to the end of chapter 11, around verse 14, and this is Peter now telling the group, is Peter giving first person narrative. He told us how he had seen an angel, and this is Peter saying, well, Codegas told us, verse 13, how he had seen an angel appear in his house and say, sin a job for Simon who's called Peter, he will bring you a message to which you and all your household will be saved.
+:::
+
+::: {#class-10-p034}
+> I find that very interesting, because obviously they were not yet saved until Peter got there and preached a message. What does that say? As I began to speak, the Holy Spirit came on them as he came on us at the beginning, Acts chapter 2. Ten year leap to find a parallel event to what we just experienced when I went to the Gentiles house. Then I remembered the words, what the Lord had said, John baptized with water, which you will be baptized with the Holy Spirit. So if God gave them the same gift as he gave us, who believed in the Lord Jesus Christ, who was I to think that I could oppose God? And then in verse 18, really, the capital. Yes, there was a lot of prejudice, a lot of human ignorance. We have a real difficult time, the changes in the King of God today, as well as they do.
+>
+> -- [Acts 11:15-18](https://www.biblegateway.com/passage/?search=Acts+11%3A15%E2%80%9318&version=NIV). Version not stated in the audio; class wording is NIV-like.
+:::
+
+::: {#class-10-p035}
+We have our own issues. But you see the heart of the church here. Notice verse 18, when they heard this, they had no further objection. Now remember, who has orchestrated this entire thing, the Spirit of God? The Spirit of God built the bridge, the Spirit of God forced the issue, the Spirit of God, allowed the question to be raised, and then the Spirit of God answered the question. And it was irrefutable. When they heard this, they had no further objections, and they praised God saying, God has granted even the Gentiles, repentance to life. Now, is this supposed to be a context that I'm supposed to take as a normal pattern for everybody?
+:::
+
+::: {#class-10-p036}
+So in summary, let me just ask the questions. Where's the doctrine of subsequent? It's not present here. In fact, the only way to prove subsequent is if you could somehow show in context that Conews was already a Christian before Peter showed up. But verse 14 says, we want to hear a message from you, now that you're here, so that we can be saved. So you saw Conews perceived themselves. A man desiring conversion, wanting this, hard open, seeking, but not yet having arrived. Where's meeting conditions beyond conversion? Every bit of this, just like with, just like with the Apostles on Acts 2, was completely surprising, radically unexpected. No one's being taught, by the way, we're going to lay hands on here, and a few minutes you're about to be hit with the Spirit, you're going to start speaking in tongues, so that should be expected.
+:::
+
+::: {#class-10-p037}
+That's how you'll know. None of that. It just happens. It's all spontaneous by the activity of God. So there's no subsequent event, and no conditions being taught beyond conversion. And what I do find interesting is yes, tongues are present, but notice the Peter gave no instructions on seeking Holy Spirit, or how there's expect tongues as evidence of that moment. It just happens. So again, if I understand the Samaritan event, I begin to understand the Greek event, the Gentile event, that this is not a normal event. This is chosen by Luke to be talked about, because it's such a radical, critical, unrepeatable moment. Now, if you stop to think, though obviously in the conversion experience, there are some things that are parallel, and there are some things that, that all of the conversions kind of hold in common, in terms of the Spirit's activities.
+:::
+
+::: {#class-10-p038}
+But in the context, there's also some unusual things that don't seem to fit any pattern. Quite the, and that's why I say, hallelujah, so can you explain all the bizarreness of it? Well, with Samaritans, who's going to build the bridge? Only God can do it, so he's going to do it visibly. And with Gentiles, who's going to build the bridge? Only God will do this, because no one else, no human being is going to take care of this on their own. So God's got a forced issue, and a very visible, supernatural manifest way. And so I do find at least some sensibility, and I am correct with this, and it certainly seems to make sense to me. I hope it is to you on some levels, that this is not a norm, this is an ab norm event. And I don't go to this to find, well, by the way, this is what you should expect to happen, conversion moment from the Spirit activates itself.
+:::
+
+::: {#class-10-p039}
+Okay. 715. Well, I want you to like me after today, so we're going to stop here. Next week, we're going to look at the last text out of Acts, that I'm going to, just for time's sake, we have time to look at. But it's also another one, it's chosen because it is a very specific text that has to do with very manifest teachings and activities of the Holy Spirit. And I find this one, like the other, is very interesting, but it's a different animal. But I will tell you very clearly, it's in all takes place in seven verses. Now, I do want you to read, in the only seven verses, Acts 19 verses 1 through 7, for next week. And I want you to, you got to do a little something here, though. And I'm going to give you a little bit of heads up.
+:::
+
+::: {#class-10-p040}
+What is unique about this, is Paul goes into the city of Ephesus, and he runs into a group of people. Now, obviously, you're getting convery condensed cliff notes of this actual narrative. I'm sure Paul didn't just walk in, see 12 people start talking to them, you know, out of the blue. Obviously, there's other thing, you know, Paul's walking, he's eating, he's carrying on relationship, well, Bob, but in the context of his going into the city, on his third missionary trip, he runs into, it says about 12 men. And these men, there says, are disciples, but it says, and it has, it's centered around their baptism. That's the key issue of this. And their baptism was the baptism of John. Now, you're dealing with about 17, 20 years later after Acts 2, and you still have a lot of confusion floating out in the learning curve of the church.
+:::
+
+::: {#class-10-p041}
+See the wisdom that you gained from some of these things, and you see the actual historical perspective of Acts. And so, you know, you're precious, and I don't get it. I mean, you know, Jesus has been out there being preached, who can mess that up? But there it is. There is that phrase frame moment. It's a central part of this discussion, and basically it's a dialogue, a very clear, very specific condensed dialogue that Luke gives you, that obviously he interviewed Paul about, and Paul said, well, this is what happened. And he very selectly says, here was the conversation we had. It was his conversation with these 12 men, his questions, their responses. And if you pay attention to it, you're going to see very clearly what Paul's theology is. Paul's questions tells you what he believes, and what he expected.
+:::
+
+::: {#class-10-p042}
+And there's an aha moment in there. Oh, now I get it. The question that I have for you, just want you to think about a little bit, if you'll actually do this, is how did those guys get like that? In other words, how did they arrive at that kind of, kind of confusing status about themselves? They were great hearts, well intended, but they were confused. And Peter, basically Paul, I mean, surfaces to confusion, and then he resolves it. This was a major issue in the first century we find. Because he had disciples of John, even when Jesus mentioned, he had disciples of John and disciples of Jesus, and they kind of butted heads.
+:::
+
+::: {#class-10-p043}
+By the way, that didn't just evaporate away when Jesus raised from the dead. That conflict still remained we found out in the first century. There were still those who were following John the Baptist over Jesus, or kind of put John the Baptist on equal with Jesus. It's kind of interesting. And my question is, how did they get there? And what I'm pointing to you, is if you will just read at the end of Acts 18, although Luke doesn't specifically say this is the reason, certainly in context, it suggests the rationale for it. We'll just read it for yourself, and it has to do with the Paulos. Because the Paulos was preaching in Ephesus before Paul arrived. And what was Paul?
+:::
+
+::: {#class-10-p044}
+What was the Paulos preaching? Just read it in Acts 18, then go to the Acts 19 verses 1 through 7, and basically I'm just going to walk you through the simplicity of Paul's dialogue as he plays it out with these 12 men, and notice the spirit is smack dab in the middle of it. That's the reason we're going to take it and selectively use this text and the filter that we're using through the book of Acts. And then if I have time, what I'm going to do in the class is to, because I'm asked about this. You know, I told you in terms of charismatic framework that I was very deeply involved with that when I was in college in my middle of the year, when I got out of my before Christ's days and came back to Jesus. And I had this experience by my choice.
+:::
+
+::: {#class-10-p045}
+I circulated in the context of the charismatic Pentecostal realm, and this is what really kind of launched my questions, because I got so confused with a lot of things, but I really believed, and I was just doing the best I could. But I received this moment, this experience, as it is framed today, this thing called baptism in the Holy Spirit. And so I'm just going to play it out for you and tell you exactly what happened. And I'd like to take away some of the mystique of it, first of all, but I'm also giving you an honest assessment of what I experienced and what I think actually, as I looked in the mirror and said, okay, well, what actually happened to me?
+:::
+
+::: {#class-10-p046}
+How can I explain this to that and the other? And then I'm also going to maybe take you into a very simple, but yet profound look at, what is baptism in the Holy Spirit from a purely textual point of view? And I find that helpful, too, because if I'm encountering all this confusion, see, if you understand where I'm going with this, and why I'm dealing with this filter is going along, because I feel if we're not careful, we should pursue the Spirit, we should understand it, and I tell you why we are, we in the Restoration Movement are some of the most ignorant people that I know when it comes in, because we've avoided it for so long, and we put our heads in the sand, and everyone else is talking about over here, so we can avoid perhaps some of these extremes, so we just kind of just withdraw, and turn into a rather, I'm not trying to, I'm not dissing, I'm talking about me.
+:::
+
+::: {#class-10-p047}
+I was like this, I grew up this way, but it's just an honest assessment that we just did not acknowledge or talk about this. We still don't. Although, if you notice, I've tried to be more open and being very biblical, talking about the Spirit's activity in our lives, and just dealing with devos and stuff, because Paul did, and Peter did, why don't we? Or did the Spirit just disappear somewhere along the line? And I'll tell you that's bad theology, if that's what we think. What we're saying is, we can do this on our own, we don't need God. That's why the Spirit was given.
+:::
+
+::: {#class-10-p048}
+So this is a rather crucial issue, and maybe why we're so stalemated in our influence in the world in which we live. We put the Spirit on the margins. We do this on our own. We do good businessmen and run things, and all the machinery won't well, and then we'll just grow churches to be fine. By the way, you can grow a church and never once give God the time of day. You'd go for a stop to think about it. And so, but I, but even though that's true from one end, I also feel, I also, let's say, well, if we pursue the Spirit and being filled with the Spirit and being led by the Spirit and walked from the Spirit, to the Lord of all, right at His own letters. I do not want to get preoccupied with things that are, I think, I think are just like these shows where they're chasing ghosts.
+:::
+
+::: {#class-10-p049}
+It leads nowhere. And I don't want to get caught up in all this preoccupation because I think that leads to just an empty end for you. I think the Spirit is doing certain things but it's substantial. That's why I keep on telling you, the Spirit's work is centered in Jesus Christ. The more you understand filling that up and understand the substance of that, the more you'll have a filter to discern, is the Spirit active here or is it? And I think it will help you in your daily walk and in your encounter with, even with others within the under the umbrella of Christendom, because you can go lightweight. I spend a lot of time pursuing things and, you know, I guess I kind of came out empty-handed. I had all this bundle of experiences I could tell you about, but I'm not sure where it led me.
+:::
+
+::: {#class-10-p050}
+And I wasn't sure, I really kind of trained the devil, remember all that stuff. It was kind of like, I kind of came out of that stuff and said, is that really what God meant? And so anyway, I'm going to try to talk a little bit about that on the tale into this. And the last thing I'm going to talk about is we have three weeks left. I want to talk to you straight up as best as I know how about this year of miracles. And I think you might find that interesting and perspective.
+:::
+
+::: {#class-10-p051}
+So let's pray and we're done. Father, we thank you. We love you. We wish to the same passionate degree that you desire it to be filled with your Spirit, to be influenced by your Spirit, that you help us overcome our fears and not quench the Spirit of God in our lives that we will keep in step with Him, that we will acknowledge that you are orchestrating and leading and empowering and affirming our lives through your Spirit and that we are desperate for you. We cannot do this on our own. And so we receive you into our life and we make that conscious decision every day. And we ask you help us to be sensitive to your prompting that you will help us to do what you helped your children to do in the first century. That is to connect with people who need the message of Jesus and your love and your compassion and who ultimately they need Jesus.
+:::
+
+::: {#class-10-p052}
+And Father, I feel like so often in our ministry we're just kind of groping and darkness. And I pray that you help us. It's in Jesus' name we pray. Amen. Amen.
+:::

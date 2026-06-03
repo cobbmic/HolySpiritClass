@@ -1,0 +1,273 @@
+# Class 5: What Does the Spirit Do? History, Hysteria, and Holiness
+
+**Original transcript:** `hs05.txt`
+
+**Summary:** After showing the Toronto Blessing as a case study, Jim traces a theological family tree from Wesleyan perfectionism through revivalism, the holiness movement, Pentecostalism, and the charismatic movement. He then turns the question back to sanctification and the body as the Spirit's temple.
+
+### Key Scripture References
+
+- [1 Peter 1:1-2](https://www.biblegateway.com/passage/?search=1+Peter+1%3A1%E2%80%932&version=NIV)
+- [1 Corinthians 6:18-20](https://www.biblegateway.com/passage/?search=1+Corinthians+6%3A18%E2%80%9320&version=NIV)
+- [1 Corinthians 12-14](https://www.biblegateway.com/passage/?search=1+Corinthians+12%E2%80%9314&version=NIV)
+- [1 Corinthians 15](https://www.biblegateway.com/passage/?search=1+Corinthians+15&version=NIV)
+- [Romans 8](https://www.biblegateway.com/passage/?search=Romans+8&version=NIV)
+- [John 3:3-5](https://www.biblegateway.com/passage/?search=John+3%3A3%E2%80%935&version=NIV)
+- [Galatians 5:16-25](https://www.biblegateway.com/passage/?search=Galatians+5%3A16%E2%80%9325&version=NIV)
+- [Ephesians 4:30](https://www.biblegateway.com/passage/?search=Ephesians+4%3A30&version=NIV)
+- [1 Thessalonians 5:19](https://www.biblegateway.com/passage/?search=1+Thessalonians+5%3A19&version=NIV)
+
+### Quotations and Source Notes
+
+> Peter names the sanctifying work of the Spirit alongside the Father and Jesus Christ.
+>
+> -- [1 Peter 1:1-2](https://www.biblegateway.com/passage/?search=1+Peter+1%3A1%E2%80%932&version=NIV). Version not stated in the audio; class wording is NIV-like.
+
+> Your body is the temple of the Holy Spirit; therefore honor God with your body.
+>
+> -- [1 Corinthians 6:19-20](https://www.biblegateway.com/passage/?search=1+Corinthians+6%3A19%E2%80%9320&version=NIV). Version not stated in the audio; class wording is NIV-like.
+
+### Cleaned Transcript
+
+::: {#class-05-p001}
+What I'd like to do is, in here in just a second, I'm going to show you a video, but let me set it up first. You know, I think about the question, what does the Holy Spirit do? I don't know what comes to your mind in answering that question, if anything really at all. I can tell you that when I was in college, I'd been the church all my life. I just didn't hear really much of anything about the Holy Spirit. Part of that could be, I just wasn't paying attention, but there were certainly a good period. I was, and I don't remember hearing a great deal about it, and if anything was more in passing. And so I really didn't have much of an idea that it did much of anything. Maybe more of a, if anything, it was a token of appreciation for my saying, hey, God, I'll become a Christian.
+:::
+
+::: {#class-05-p002}
+And God kind of gives me this little memento called Holy Spirit. It was inanimate, you know, I didn't really do it. It's kind of like a paperweight that sits on your desk, and it's just there. But wasn't really doing anything. And, you know, of course, as I began to really get into this, even in my college years trying to answer these questions. You know, it, you know, I'm going to say, well, it certainly sounds like you're doing something. And I also, you know, kind of had always an impression that it was there. It's kind of like a holy helicopter, kind of hovering above, you know. But the Scriptures keep talking about the Spirit of God in dwells you. He's a living.
+:::
+
+::: {#class-05-p003}
+So I'm hoping that we go through this series of classes and we actually stop and pause, thoughtfully, scripturally to look at this thing and ask some of the hard questions. We'll find the Spirit of God is very, very active in your life and certainly trying to do some things. And it would be nice to be cognizant of it. And so, but I want to start with a video because you're going to see that if you have a very tame view of the Spirit activities, you're going to find that not everyone shares that. In the broader spectrum of Christendom around the globe, what I'm about to show you is not uncommon. It's not the fringes, the people off the radar. In fact, as what's associated today with the term the charismatic movement, which is coined, I'm going to talk a little bit about that servicing today.
+:::
+
+::: {#class-05-p004}
+Specifically, and back in 1994, and that's what this video is from YouTube that comes from, was called the Toronto Blessing. And those in that sphere of belief suggest that it was a fresh outpouring of God's Spirit. Now, you're going to see what I think for most, if not all of you, is rather you might term it kind of very bizarre behavior. Now, I was encirculated in these circles when I was in college. So, I witnessed a good bit of what you're about to see in person and on different levels. And I will be talking about that as we move on this semester. So, don't freak out with this. Just see that. But what I want you to catch is this. The people that are doing the things that you're about to see will tell you the reason that they're doing them is because the Holy Spirit is making them do these things.
+:::
+
+::: {#class-05-p005}
+The source is the Holy Spirit. If you have the Holy Spirit, these are the things that you do. If you're really open to God working in your life, this is where you will end up, too. So, understand the connection there. That's why I'm showing this to you. What does the Holy Spirit do? And there are many different answers to that question in our culture today. So, without further ado, let me just let you say it, about two and a half minutes. And then we'll pick back up and we'll begin to look into this. It began on January 21, 214. You can watch. There is over one through some moments of you people. You can tell from all the areas that are important others probably do. There have been times where you live through it. It was unbreakable then. And because of it, hundreds of thousands of people do it with you.
+:::
+
+::: {#class-05-p006}
+But you're doing the experience of Toronto. Thank you. I want to read from Luke, chapter 1, some of you think that I don't give readings. I've been going through different stages of drunkenness. On the stage I'm out at the moment, just for outing. I love you. I love you. I love you. Thank you for coming to me. Thank you. Okay, you go ahead and put the PowerPoint on. Just turn off the Internet version. While we're making the transition, so what are your impressions? If you're getting little brief snapshots, understanding everything that you saw, if you were to talk to each of those individuals and perhaps what you might call more sane or moments, they would say, well, the reason this happened to me is because I was taken over by the spirit of God and this is where it led me.
+:::
+
+::: {#class-05-p007}
+And of course, you saw several vestiges of it, holy laughter, people, this whole congregation is uncontrollably laughing, which, by the way, was one of the signature manifestations of what is called the Toronto Blessing. If you notice, they kept showing Toronto and the airport. It was the airport church in Toronto. That's why it was called the Toronto Blessing. And again, this phenomenon really crosses the globe. And of course, people being leased, walking around like dogs, barking, summer, acting like other animals, people just, what they call slain in the Spirit, we're going to talk about some of this.
+:::
+
+::: {#class-05-p008}
+So what are your impressions? I mean, you hear this. What does the Holy Spirit do? What are your thoughts? Well, it is because I don't know a car with Caleb, and I mean, that's no, you're all not. We started talking about stuff like this. There are people who focus on different things like that. And there are people who I don't think you can claim to have exercise in them. You know, just like, you're just saying, you don't want to judge those people and you don't want to. I guess, did not I have the fact that there is a lot of different forms that people didn't experience the things like this one of those issues where I just, that's so out of people are very, I didn't feel the same sort of film. I would experience something like that. If I would, if I would experience something like that, I would surround that with the Holy Spirit seriously.
+:::
+
+::: {#class-05-p009}
+I'm not joking, but I feel that that happens. I can really judge. Anyone else? My brother-in-law and sister have actually converted from Church of Christ to Jesus because they know. And my brother-in-law is kind of one of the people that I've been using as a tool to do my own study of the Holy Spirit. So, which I started before the class started, which I currently believe that He was the Holy Spirit's working with. It causes a class to have a semester. I don't think it's more of a conscious kind of a Christian view in the right direction, like a whatever I'd think of. I can call this person and then I actually go do it. It's always very important to put that again in my head or in my mind.
+:::
+
+::: {#class-05-p010}
+Okay. Okay. Anyone else? I'm just kind of bad saying this, but you can play a lot of things. Like, you've got reactions to that video and then that's the end. This is, this guy is the first to be actually in the Holy Spirit. Okay. Anyone else? I'm just going to know what your impressions are and what you think as you're watching all of this. And, and entering the question was always very good. I feel it's quite great old fairy tale, the inverse is closed. Where everyone doesn't, everyone wants to say, well, I don't think this can't be right. But, everyone else sees this new city. With the naked eye, I guess I need to go along with it. It wasn't a little short of a little kid pointed out. Right. Socially anymore, with group behavior and the ability of mass behavior, herd behavior to convince, and there's one certain, there's certain truth to that that can happen.
+:::
+
+::: {#class-05-p011}
+You can drive an eye to the front of the room. This is one of the interrogations. Just to see what it was about, the herd someone's speaking in town. That makes you kept saying that one word, two word, two word, two word, two word, two word, two word. He didn't know what the word meant. I don't think anyone there knew what the word meant. A couple of years later, he was watching a western movie. And he said, it's getting running down the hill, screaming in words. And apparently someone asked, what was it that said? But it was stopped. Thank you.
+:::
+
+::: {#class-05-p012}
+By the way, there's a name for that phenomenon. I will talk about that later. I saw your hand up. Can we, we can go on now and appreciate your thoughts. I'm just trying to get your wheels spinning a bit. By the way, you can turn my mic down if you want to. It was on good. And where was it? I'm just getting the wheels spinning in your mind and thinking about this. Obviously, I'm going to explore a lot of these things and try to place them in some setting. Because I told you I used to be part of this. When I was in college, I delved in with both feet and my searching processes. And I'll tell you what my personal experiences are and what I experience and those kinds of things. You know, regardless of how you interpret this, we have to have some way of filtering this.
+:::
+
+::: {#class-05-p013}
+Of course, I know, to me, I always ask the most fundamental questions. Has God spoken? If so, what exactly has he said? You know, certainly human nature and human impulse, we can be swept off into just about anything. Human history says, tells us that very clearly on all levels, certainly within the realm of religion. That is probably one of the most obvious manifestations of this idea of being swept away into thoughts and behaviors that can be very foreign to God. And ironically, everyone reading the same scriptures, but not coming to the very same conclusions. And so, you know, I think this is an important question. And I think the spirit of God is extremely active just in short. I see this as more of a hysteria. And hysteria can move you to absurd behaviors. But I like, I'll, you know, not just say that and hit and run.
+:::
+
+::: {#class-05-p014}
+I'll come back and we'll talk more specifically about each of these things. I'd like to actually explore this idea. And I want to start by showing you that this really does come from some place in terms of what I would call a theological tree. So let me take a little time and notice this is a little bit of theology. Theology shouldn't scare you. It simply shows you that people, in terms of how they process scriptures and how they, what they come up with and create frameworks, theological frameworks, how to believe. And if I put this in there, you can begin to see where people got to where they are today with certain beliefs. They did just drop out of the sky like this. You all know John Wesley, well known Bible scholar. And he developed what was term Wesleyan perfectionism.
+:::
+
+::: {#class-05-p015}
+And some of this is not really familiar because I've already kind of hinted at it earlier as we've developed. And I'm kind of giving you further development of this. And so I hope you'll see where this goes. And the basic framework is this. The suggestion is that conversion comes in stages. That when you first come to Jesus, you're not a complete Christian. You're an incomplete Christian. And so you go through the process, when you first come to Jesus, you are justified. I understand it. It's a legal term in scriptures. It's a, if you do the research in the Greek word just justified or justification. It's a courtroom. It's where the judge rules you not guilty. Where our sins are forgiven. Where we are placed once again back in a right relationship of God. That's justification. The other stained glass word is sanctification.
+:::
+
+::: {#class-05-p016}
+These are two separate and distinct ideas. But you'll find them in scriptures holistically placed together. Which is part of why I have a problem with what I'm about to show you. Because here you see them fragmented. Two separate stages. Sanctification we're going to talk about just a moment. And so I'm just going to put that in the whole. The idea of setting you apart and you're being a special service to the Lord. Now understand the idea again. But you are an incomplete Christian when you first come to Jesus. You are justified, but you are not yet sanctified.
+:::
+
+::: {#class-05-p017}
+Okay. And so you're dealing first of all with the understanding that there is a subsequent event that one should seek. And that subsequent event is earned. If we talk about the Galatians, remember we talked about this. The idea of I have to do some things to achieve this moment where I received this. Sanctifying moment in my life. And it comes to fully surrendering. So as I finally give my life to God and I give it holy, then this moment comes upon my life. Now there are certain things that are associated in terms of how Wesley perceived this.
+:::
+
+::: {#class-05-p018}
+First of all, he said it is a higher experience. In other words, sanctification is a greater experience than justification. So you should seek it because you're now not a nominal Christian. You're now a fully developed Christian. Which should maybe raise some flags if you get some ideas that it's separating Christians between nominal and superior in a way. I already have a fundamental struggle with that. But I can see if I buy into this that well, okay, there's the higher experience. Of course, I wonder how could something be greater than becoming a child of God?
+:::
+
+::: {#class-05-p019}
+So instead it was a higher experience. Also, it was instantaneous. In other words, you build up to this point that when you finally get to this point where you are fully surrendered to God, it hits you like a bolt of light thing. It happens instantaneously. That boom, you're also immediately fully sanctified. So you go from building up and turning on the engine and getting it revved up and getting on. And finally, when you get to that point when God thinks you're ready, he by his own initiative, boom, hits you with it. And you are now have this experience where you are now fully sanctified. You became a full Christian now. That's why I used the idea of fullness. We talked about that in Colossians, if you remember. And not only is it a higher experience than it happens instantaneously, later on in the subsequent event, fragmented conversion, one stage, two stage, but it's also entire.
+:::
+
+::: {#class-05-p020}
+Wesley actually spoke in terms of you do not sin anymore. You become sinless. Now, maybe you've been hearing the quantum discourse preachers out there. Apparently, they've been us days. Have you picked up the fact that that's their theology? In fact, I was told they had a t-shirt that say Christian, or I am perfect. Yeah. And it comes out of this roots, by the way. Not enough time to walk you through all of that. We can talk about that. That really bothers you in how they get there. There are certain passions that they go to. And for us, John, Hebrews, where they suggest, well, Christians can't sin. If they're truly fully sanctified Christians. But they're working off of Wesleyan perfectionism. They may not know that that's where it comes from. But this is John wanted to develop this idea. And thought it through and said, here's where you go with this.
+:::
+
+::: {#class-05-p021}
+And so, by this framework, it sets to stage for some rather interesting things. And this is not a matter of hypothesis. This is a matter of what actually happened in history. I'm going to give you what is the theological family tree that developed, based upon Wesley's, developing this idea that conversion takes place in two stages. You were justified. And then there's a subsequent event. But it was kind of a big question mark. How do you know you had it? And it was kind of what you call the inner witness. That you just kind of know inside. And your skin doesn't change colors. The heavens don't open up in years year. You know, the angels singing. And you can see them and things like that. There's nothing demonstrative. You just kind of have this inner feeling and sense of being that I've received it.
+:::
+
+::: {#class-05-p022}
+I've had this moment, this experience in life. Now, let's build on that. And let me kind of tell you where this goes. And this will all come. This will be worth it. Just stay with me. Upon that, in the early 19th century came what is known as revivalism. We've all heard about the great awakening in America. You might even heard the name Charles G. Finney, who was one of the most prominent promoters and icons of this period of history would go across America preaching rather fiery sermons. And you know, a lot of interesting things took place.
+:::
+
+::: {#class-05-p023}
+What revivalism brought in was not necessarily a theological framework. But it brought in the idea of revivalism, emotionalism. All right. His thinking was simply this. And you can see they wake up from that people need to be emotionally charged up to open up to hear the message of God that we're so numb and we're so asleep. I'm going to get you all, I'm going to get you to a pep rally first, to get you all worked up. And then if I get your heart open, then I can preach to you and you'll listen to me. And there's some truth to that. I mean, people have to be awake to hear. And I like to wake a few people up here right now in the end, and you know, go a chalkboard out of them or something. But you know, if you stop thinking, you know, you can be swept away into anything.
+:::
+
+::: {#class-05-p024}
+And so it had some interesting things. Now, During, it's not a coincidence, therefore, given this was the emphasis of that era. I want you to know that there were certain phenomenons that began to surface during this period of history in America. Some things you just noticed. First of all, the overall is godly hysteria. For example, holy jerks. You saw, you actually picture this. I've witnessed all of these things in my life. I think seeing people do these things in person. People that would be sitting in a class like you, very normal, some were students, some people worked for universities here, some worked in businesses in Auburn, because most people, like normal people, but in the religious setting, they went to their church. This is the things that they would do. Holy jerks. Just lower your body, going through convulsive behavior.
+:::
+
+::: {#class-05-p025}
+Sometimes standing up, sometimes laying down. By the way, what do you think the Quakers got their name? Then you have being slain in the Spirit. You saw one of those where they lay hands on you, and you'll notice that people, they just like to get mocked out. You can't get mocked out of the spirit. I've witnessed this a lot. I never had it happen to me. I was kind of like telling you this. It's really true, let it happen. I'm open, and I've had people come up and put the oil on my head, and put their hand on me. But I've always kind of, you know, I'm not really giving the hypnotism. I'm not being facetious. I'm just saying I'm not. God's going to do it. He's going to have to do it. I'm saying, and I just never had it happen to me.
+:::
+
+::: {#class-05-p026}
+But I've been around people. They just boom. They lay out. I'm not trying to be silly, but you know, these ladies, of course, I worry about if they short dresses, they go falling around in front of me. People would run up and put blankets on them and stuff. That's what you see. A lot of people laying on the floor covered up. You know, and they will stay there for five minutes, 15 minutes, sometimes the whole church service. And they would always wake up at the closing song. I don't know how to put that, but that's what happened. And we came down to eat. You got up. And so, you know, I guess the spirit gets hungry too. But I shouldn't say that. I'm sorry. Holy, holy, holy laughter. I'm talking about whole congregations literally We saw some tanguins. I've witnessed where I mean, they're just literally rolling on the floor and laughter.
+:::
+
+::: {#class-05-p027}
+And again, if you say, why are you doing this? And when they can stop laughing, they say, because the Holy Spirit is making me, I can't help it. I mean, just literally just, you know, if I have the giggle box, it was just unbelievable. Holy dance. It's just that. I used to have a woman, I used to sit next to, and it was really kind of interesting. She would always have the spirit take over her. And she would just, she would leap up on the chair and shed her tambourine and value me. She just went nuts. And she would just dance. And, you know, of course, you know, I kind of got into it. And she was, you know, the both dynamic presence in that building. And I touched it. Well, what's happening? She was the spirit just takes over.
+:::
+
+::: {#class-05-p028}
+Now, this is going to find this is where you're going to see it's a little bit harder to train the devil. Now, unless you saw it, you wouldn't believe it. But during the spirit of history, what the people would do, they would get down on all fours and they would bark. And what they thought they were doing was chasing the devil out of the building. They would literally go out the building doing this. Whole groups of people on all fours. And barking the devil out and chasing him up a tree. And they would be sitting at the face at the foot of a tree. And the devil's up there. They've cleansed the building of evil influence.
+:::
+
+::: {#class-05-p029}
+Okay. Now, remember, all of this went together. And then, of course, the speaking in tongues, which is a much more common presence today. And what we did not sure quite do is, and I will talk about that in some degree. So, my point is, is that if, you know, when you buy into this, this went with it. Now, do I think emotionalism is wrong? No. Anyone got emotions about Jesus in this room? I hope so. Anyone feel very strongly, and it just resonates in your life. They ever go to worship. They just feel in a wonderful way overwhelmed by the presence of God. But does it lead you to do this? Is it because you guys are too resistant to this movement of the Spirit? But anyway, during this period, you had this. So, built upon this idea of the theology was, this emotionalism came in.
+:::
+
+::: {#class-05-p030}
+Now, notice what came in after that. It's what they call the holiness movement. Now, the holiness movement basically reinitiated emphasis on the Wesley perfectionism, the two stages. Entire, instantaneous subsequent event of conversion. And what they brought in, though, that was new to all of this, was the idea of the full salvation was that they actually identified that second stage with the phrase, baptism in the Holy Spirit. So, have you yet received the baptism of the Holy Spirit, referring to the subsequent sanctifying stage that comes upon your life that John Wesley talked about? It was during this period that it became labeled as this. It was not labeled as beforehand. Get the idea. Upon that, card comes the word, and you tend to build a little more associated with this, what they call the Pentecostal framework. In terms of churches, if you grew up in an assemblies of God or a church of God, those were the original Pentecostal organizations in America.
+:::
+
+::: {#class-05-p031}
+Now, what they brought into this is very interesting. And it goes back into 1901, back on January 1st. You see, the idea of Pentecostalism is that it pushed beyond Wesley's inner witness and was searching for something that was outward and more tangible. How do I know that I have received this event? I need something more tangible because it was too vague. Other than you say, well, I just feel like I have. So, how do I know that I have? And that's what people were going to get pushing for more and more and more definition historically. And so, out of this emerged, this passion for more came this event. It was one of those, it's the first documented historical moment where someone actually received through the laying lot of hands, a baptismally spirit. Her name was Agnes Ozman. It was at the Charles Parham's Bethel Bible School, and a group surrounded her.
+:::
+
+::: {#class-05-p032}
+And then she began to speak the ecstatic language known as speaking in tongues. And that became the outward manifestation of the inward reality of having received the baptismally spirit. Now, that was unique to Pentecostalism. Remember here, it was just the phrase, but it was still identified with the inner witness that Wesley had talked about. Now, I have an outward manifested thing that, you know, when I received that voice spirit, I expect that the outward sign of that to validate that I have actually received that voice spirit is, I begin to speak in tongues. Now, remember, speaking in tongues existed earlier than this, but this is when it was identified as the outward manifested affirmation that you've received this moment. Good, the idea. And then we move in to finally what is called the charismatic movement, the pentecostalism, the new pentecost.
+:::
+
+::: {#class-05-p033}
+Basically, it was this theology moving out of the framework of the assemblies of God, churches of God into every denomination. And when I was in college, this process was in full swing. They would hold what was called Full Gospel Business Men's meetings. And what it was was an invitation to go in here or the theology of this, and people would get up and they would tell you about their experiences of having received the gift of the Holy Spirit and the baptism Holy Spirit with the evidence of speaking in tongues, and they would share their experiences, then they'd call you up to anyone here and want to be joined with this, have this happen to them too. So, really wasn't a business meeting, but they called it that. I know it's understood why, in fact, it was that a show knees here in town that you speak not here anymore.
+:::
+
+::: {#class-05-p034}
+It's a Chinese restaurant now. They're crossed from the mall, you know. And across the street from C. C.'s, that building there is where it used to be. And we used to go there and that's where they would do this. And very well respected individuals in the community, some of them, some were professors. If you associate with just absolute ignorance, that would not be realistic, nor fair. The would share their experiences, be eyewitnesses to this themselves, and then call the people to come forward and have this happen. Now, I had to happen to me, and I will tell you about that later on, and how I processed all of that later. So, anyway, there is that idea. So, you see my point. I want you to see that we didn't get into the setting of America today with the thinking that we do, with the things that are going on, even globally, it didn't just drop out of heaven.
+:::
+
+::: {#class-05-p035}
+It went through a very specific process of thinking and people seeking more and more and more definition. And finally, we end up with a theological framework that people buy into. Of course, remember, it starts here, until I can understand the idea, unless I buy into the idea that conversion comes to two stages, then everything dismantles. But if I buy into this, then this becomes a tentative, I mean, a reasonable process of thinking. So, here is why I have my fundamental questions of what I question scripturally, really how it takes place. So, you get that idea, okay? Kind of keep that in mind as we go through this, and we'll come back to some of these things. Now, what I'd like to do now, in the 750, and we're just going to start a few patches, and I just enough to what you're appetite to pick up next week.
+:::
+
+::: {#class-05-p036}
+1 Peter, first chapter, first two verses. Most people, when I read the letters of the different authors like Paul and Peter and John, they skip the first few verses thinking it's just a salutation. You know, dear John, okay? Skip that, it didn't skin to the meat, get through that, good hair from you, blah, blah, blah. Okay, skip all that, now let's get to the meat of the stuff. You shouldn't do that with scriptures, because each of these authors, they tell you basically what's coming in their introductions. There's meat in the introductions. They don't waste, they have economy of words. They're saying something to you. And Peter was writing to people who were enduring severe persecution. They literally had the sword poised over their head by the Roman government, and they never knew when it was coming down. They were having their property confiscated, they were being placed in prison, they were being fed to lions, they were being burned alive, they were being boiled alive in oil, they were being tied to the wheels of chariots and a circus maximus and just being crushed into dust, all for the entertainment of the Caesar's and the Roman people who considered the Christian to be the haters of mankind, by the way, and ironically.
+:::
+
+::: {#class-05-p037}
+So a lot of things were taking place, and this was near the period when Nero was Caesar. He called her Nero, and he did not like Christians. They were extremely threatening to him and his view of the empire. Now, so Peter writes this letter to basically this frightened group of sheep, they called Christians, in the area of Asia Minor, because off the shores of Rome, across from Greece, came up the waves of persecution into that area, and that's what this letter was written to. So he says this, to God's elect, strangers in the world. Say what? You feel like you don't belong here when the world around you hate you. Scattered, you know, it's called Pontius Galatia, Capodotia, Asia. That's that, you know, you got here, here's the, you know, here's the, here's the Mediterranean Sea, here's Palestine, up there is Asia Minor.
+:::
+
+::: {#class-05-p038}
+That's all these places that they're listening, right? You can look back, you might always look at your map, it's all there. Who have been chosen, notice, according to the four knowledge of God, the Father, through the sanctifying work of the Spirit, for obedience to Jesus Christ, which frankly, I was blood. Now, what's one of the first things you notice, because I have it all underlined? God, the Father, God, the Son, God, the Holy Spirit, with the power of the Trinity, that's one of the reasons why. God, all of God's involved in this thing, and those things, they all have very distinctive roles. Test that? God, the Father, being the one who, for knowledge, initiates towards human beings. Jesus coming and dying as the atoning sacrifice for our sins, and the Spirit sanctifies us. Now, right there, if I know nothing else, it's the only scripture I knew in all the Bible, I know this.
+:::
+
+::: {#class-05-p039}
+The Holy Spirit is doing something. Now, the word is sanctify. So let's just start with this as a basic fundamental building walk. What in the world does sanctify mean? Nothing but a stained-glass word in this room until you can tell me. Okay, what up? Okay, and it would certainly be in the context of that, although it doesn't technically mean that, but yes, it is certainly when you see the verbiage of the writers, and they will put it together with those kind of ideas. Yes. What else?
+:::
+
+::: {#class-05-p040}
+Okay, and there's your class, and go open up the dictionary, sanctify to set apart, to make holy. Now, I'm still not quite there yet. Although I'm a little bit closer to that thing, holy, holy. The Holy Spirit makes you holy. He sanctifies me. Now, deal with this one. Sometimes when you read the word sanctify, it uses the past tense, completed. You have been sanctified in Christ Jesus. 1 Corinthians chapter 6, I think verse 1. It's sanctified, past tense, completed. But other times you read it, it says, you are being sanctified.
+:::
+
+::: {#class-05-p041}
+So are the writers confused? What do you learn from that? Put that in context. It's in your Bible, people. It's there everywhere. You might as well figure it out. And it's not there just simply so you can have a nice little cerebral moment here. I think that we're going to be able to figure it out. Okay. And the spirit of God has faith in you, our right. You are already saying you are already sanctifying us. But at the same time, you're also sanctified. Okay. Okay. Good. We've got to deal with the translates up. You're no close to understanding this. If you stop a little bit and pause and think and be thoughtful in the words, you can understand what they're saying to you. They're not trying to trick you with stained glass words. They're trying to get you to think about the blessings that God has bringing to your life.
+:::
+
+::: {#class-05-p042}
+And why you should want to follow Jesus. And where it leads you. When it speaks about it and it completed, the past tense, completed. When you came to Jesus, you were thoroughly 100% set apart to God. God sees you as a child of God, not in part, but in whole. You receive the fullness of God. Remember, Colossians 2, you don't get part of Jesus. When you get Jesus, you get all of God. The fullness of God dwells in bodily form in Jesus. And you got Jesus, you got fullness. And that's why it speaks to often in the scriptures that you were justified. You were sanctified in the Lord Jesus Christ. It's all a cohesive whole. It's not fragmented. When you get one, you get the other. But we also now, having been set apart to God, we also know the realities of our actual living out of our life.
+:::
+
+::: {#class-05-p043}
+Well, there's a lot of flaws there. So God sees me as holy. Now he's saying, act like it. But the pressure I get, I can't act like it. Let's just be able to help him. Act like it. It's not just ongoing, maturing, growing process of me being sanctified by the work of the Holy Spirit. So the initial understanding of having received sanctification is the basis of my, is the basis of my understanding of my relationship with God. But then I fall into the obligation to be sanctified, living a lifestyle that actually reflects the holiness of God. You with me? Now, not very complicated. Spirit is doing something. One more text and we'll call it quick for tonight. 1 Corinthians 6. Now, the Corinthians had a lot of problems. This is one of many, many, many that Paul points to. And he just lines them up, just deals with them.
+:::
+
+::: {#class-05-p044}
+Some of them, when you hear them, say, you think there's no way they were doing that. And they were Christians. And remember, you know, we're dealing with people. You know, Christianity is just, you know, maybe 20, about 20 years old. Brand new Christians everywhere in the face of the earth. And the Mediterranean world where it started. And Corinth was a nasty place. It was, you know, sin city. It was, everyone in the Mediterranean world knew that Corinth was the ultimate place to go to get your life messed up. In fact, the Greek plays, whenever there was a character who was considered a Corinthian, he was either drunk, always. He was a drunk, or he was involved in deep, promiscuous, sexually immoral behavior. Because that's just what Corinthian was. And there were reasons for this. And I need to explain this because it gives meaning to the text.
+:::
+
+::: {#class-05-p045}
+There on the acro-chorant, there was a mountain area that bloomed over the city itself. And by the way, we have the archaeology is unearthed all of this. It's really kind of interesting. It was a temple. And it was a temple to a certain god. Anyone know where it is? Some of you know it. Dynesius, that's Ephesus. Close. Diana. Aphrodite. Now, you go do a little googling Aphrodite, and you get embarrassed reading about Aphrodite. Aphrodite looked embarrassed, first of all. And I'll not describe it to you, but it was basically the god of sex. The god of lust. It's kind of interesting, you know, who you worship. This is for free. But, you know, 50 miles away on a clear day, you could see Athens. And they're on their mount to the temple to Athena. And Athena was the god of what?
+:::
+
+::: {#class-05-p046}
+Knowledge, wisdom. So is it really a coincidence that out of the context of that worship came some of the greatest philosophical minds of that day? But over in core, we had to worship lust. What do you think they produced? And you know what was associated with this temple? Were 1000 sacred prostitutes. And, um, hell of money in your pocket? You could carry on the religious experience. This is the issue. This was a worship. Wouldn't like rain to the, you know, the computer looking at pornography, although it's not too different. But the people would go to the temple. And if temples didn't go, you didn't go to temple. It came to you because every night the sacred prostitutes would descend the mount, come into the city, and apply their trade. And they were very successful. It was said. This was a, this was a slogan in the first century.
+:::
+
+::: {#class-05-p047}
+Not every man can afford a trip to Corinth. And that's why. So I mean, it was, it was a dirty place. Uh, one scholar says if it's the mat in which the people who got off the port city there and came on the mainland would wipe their feet before going into the enchanted land of Greece. Um, it was a nasty place. I don't see. I just take quite a, so you know, it, it doesn't surprise me that this church had a lot of hangups because these are people converted to Jesus Christ. And they were, I mean, their world was, was, was horrendous. And they converted to Jesus and they were serious about it. Um, and they're called, if you know some letters, the Church of God. Paul didn't put them on probation because now some of you guys are engaged in going to the temple or joining yourself with these harlots.
+:::
+
+::: {#class-05-p048}
+You're involved in sexually promiscuous behavior. And how can you do this? So it's in this context that Paul says this. Now, just prior to this text, he's going to basically make an argument, why should you do this? I'll have time to go through the next genesis of all of this. I wish I did. But when you see the context of it, so it's very important. He's building basically a case against sexual ethics for Christians, which was radically different than the world in which they left. Right from different than the world in which we live. And if you go back to verse, this is starting in verse 18, but go back to verse 13. Basically he says, God is interested in your body. And the slogan that the Corinthians were using was, hey, food for stomach, stomach for food. That was their argument. That's what allowed them to say, hey, it's okay for us to do this as Christians.
+:::
+
+::: {#class-05-p049}
+Now, what was their argument? Food for stomach, stomach for food. What were they suggesting? Okay. Okay, you get hungry. So what do you do? You satisfy the hunger. You eat. You have a sexual desire. Therefore, you satisfy that desire too. It's already just a bodily function. Remember, they had built into this and in this culture, they dualism. This was very common. It's not too uncommon today, but we just don't think about it. We're not sitting around a bunch of Greek philosophers espousing this in front of us. But we bought into this in our culture that your physical body is evil. And you're going to jettison this physical body anyway. And you're just going to be a disembodied spirit.
+:::
+
+::: {#class-05-p050}
+So the thing that really matters is your inner spirit, your soul. So what you do with the physical body is just the temporary necessity, the evil of life. So you can go to directions. You can go to setisism. Just deny yourself everything, a bodily comforts. Or you go to the other stream, which is just absolute freedom to do anything you want with it. And you'll find in this period of history, people went both directions. And they're talked about ascriptors. It's common sense. If I bind, that makes sense. They call dualism. Now, the scripture suggests that you're not dualistic. You are body, soul, and spirit. And part of the argument Paul makes here is your body does matter. In fact, when God raises you from the dead, he's going to raise up your body physically.
+:::
+
+::: {#class-05-p051}
+What you are in right now is not going to be solely jettisoned. This is the raw material that God is going to use to raise up this new, transformed, immortal, imperishable body. You're not going to be a disembodied spirit when Jesus comes. Listen to scriptures. It's the argument of 1 Corinthians 15, which they had problems with that too. But not understandable since they bought into dualism. So they say, look, God does care about your body. And sex is not the same thing as satisfying a physical appetite of a hunger hunger. It's something to gather all together different. And you're trading off something. You don't want to trade off.
+:::
+
+::: {#class-05-p052}
+So it goes on and say, well, your bodies are members of Christ. And because of that, when you take what God intended to be, this great moment of... The sexual relationship is intended to be the most intimate moment of communication between two human beings. How do I say that? If I take what God meant to be the deepest moment of communication in my life, and I throw it out in a non-committal relationship, then everything goes haywire. So when you understand the implications, then we understand that God wasn't just saying, hey, I gave you some great desires, men, I know they drive you so just don't get it. And I like to just sit back and watch you guys suffer. That's not what God's doing. And Paul's basically walking through his arguments. Here's why. And now, you know, some other class will talk about this.
+:::
+
+::: {#class-05-p053}
+But it's the basic meaning of sex. And he goes on and say, it's the only sin that is a sin against your own body. You notice that in this text? It's very unusual. It's the only one. If you understand the intent of the sexual relationship and why God designed this, then you understand whom? My whole body, soul, and spirit and personality is investing in this thing. And I'm trading it off. And some things are irreversible. But I mean, they can't be forgiven, but they're irreversible. So I've got to deal with this thing. And this is what these people were doing.
+:::
+
+::: {#class-05-p054}
+So I'm going to contact you. And there's this. So therefore, and after you make so much of it, flee, run as it's the word, as run as in terror from. See it goes. No! And I'll be asked to let that's the word. Panic. It's what Joseph did with Potterfah's wife. He fled. Same word. All other sins a man commits are outside of his body. But he was sexually sentenced against his own body. Do you not know? And now, those were part of this argument. Here, Paul is arguing why this commitment to sexual sanctification, sexual holiness. Because you're already set apart, but now I'm obligating you to actually live this way, because your body is the temple of the Holy Spirit. Who is in you, not hovering around you, not looking down at you from heaven? He is in you. The clear testimony of scripture.
+:::
+
+::: {#class-05-p055}
+Read Romans 8, and it will just keep pounding that word out until you get it. Whom you have received from God. No, it's passing. You've already received them. You know, here people that were involved in sexual morality, but they have already received the Spirit of God. Remember, it's at the beginning. When you first put your face in Jesus Christ. So was the Spirit with help from them? Because their lives weren't perfect? Now, you are not your own. You were bought with a prize. Therefore, honor God with your body. Now, let's look at this word. And then we'll end up the word temple. Your body is the temple of Holy Spirit. There are two words for temple in the Greek language that you'll find. One is the word here on. You'll get that, well, you don't have to worry about stolen that.
+:::
+
+::: {#class-05-p056}
+It referred to the whole temple area. Remember, you had this big, huge, walled, and area of the temple area. They had the court of Gentiles. They had the court of women. And you had the Jewish men could go. And that's where, just outside the actual building, which was the place where the Holy of Holies was, which is where God actually lived. That's where the Arketic Covenant was. And outside that room where the veil was, where the show bread, and the candle operas, and all that stuff.
+:::
+
+::: {#class-05-p057}
+So there's a word for the mass of view. But this word, the word he uses, is the Naos. And a-o-s, Naos. I'm referring to specifically the inner sanctuary where God dwells. Your body is that inner sanctuary. You had the temple of God in Jerusalem. Guess what the temple of God is now? You. I mean, think about that. Or do you once a year? And with trepidation, did a high priest walk into that place to offer the sacrifice of the sprinkled blood of that lamb upon the Ark of the Covenant? And in case he got struck dead, he wore little bells on his garment so that when the people stopped hearing the bells, they had a rope-title, and they could pull them out. Because we're God-dwell. It's sacred. It was the most set-apart moment of person could ever experience under Judaism to go into the presence of God.
+:::
+
+::: {#class-05-p058}
+And what he once a year, and all of you, be one of those lucky ones selected, and they were rare. It was like winning the lottery. I mean, it was, you're a millionaires a day. Woo! You know, it's just both multi-millionaires. And now we're being told that you, each of us individuals, your body, your physical body is the temple of the Naos of God-spirit. Great, amazing piece of theology there. Now, I want you to notice what he says and doesn't say, and this is very important. He's saying very clearly here that, you know, you don't cleanse your body of sin, and then God's going to give you his Holy Spirit. He's saying, you already have the Holy Spirit. Therefore, cleanse your body of sin. Very important. And what is the motive and empowering that enables this, the Holy Spirit of God?
+:::
+
+::: {#class-05-p059}
+You see, if it is true that Spirit of God is through the Spirit that I am able to be empowered to fight sin, I don't need the Spirit after I got my life all cleaned up. That's assuming I can do it on my own. If I can do that on my own, I don't need the Spirit. I'll just do it on my own. God says, do it. And I'll tell you how to do it. And we're going to get this more when we get that Romans 8, 7, 8, 9 next week. And Sean referred to parts of Romans 6, 7, 8 when he shared his thoughts. Rather, the argument is, you already have the Spirit of God. He already doesn't dwell you.
+:::
+
+::: {#class-05-p060}
+So the obligation and the empowerment come, because he's already in your life. But the truth is, without him, I could not do what he's asking me to do in the first place. It would just be frustration. So the Holy Spirit is a powerful incentive for holiness. I must keep my body as a holy sanctuary for God's Spirit himself. Remember, he's a person. Not a force. Next week, we will pick up with Romans 8. Let's see if it's kind of seep in, think through. We'll pick up. We'll talk some more about what is, when you listen to the New Testament Bible, and they say, this is what the Holy Spirit doing in your life. Where does it lead? You should already begin to get a fundamental picture when you just hover around and soak in the idea of sanctification. The more you understand that, the more you understand how to evaluate.
+:::
+
+::: {#class-05-p061}
+So what does the Spirit of God do? Does that person, if you will, on that leash barking, holy? Or is it just kind of unusual behavior? Well-intended. Does it make you more like Jesus? Did Jesus ever do anything like that? Maybe we're known with looking? But Jesus does talk about how do you know the Spirit of God is upon me? He had very different things to say, didn't it? I do it loving people. Well, we'll get there. Let's practice.
+:::
