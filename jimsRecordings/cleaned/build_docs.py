@@ -1561,9 +1561,150 @@ TOC_SCRIPT = """
 """.strip()
 
 
+HTML_TRANSCRIPT_REPLACEMENTS: list[tuple[str, str]] = [
+    (r"\bOkay,?\s+", ""),
+    (r"\bOkay\.\s+", ""),
+    (r"\bAll right,?\s+", ""),
+    (r"\bAll right\.\s+", ""),
+    (r"\bYou know,\s+", ""),
+    (r"\byou know,\s+", ""),
+    (r"\bI mean,?\s+", ""),
+    (r"\bjust kind of\s+", ""),
+    (r"\bkind of\s+", ""),
+    (r"\bsort of\s+", ""),
+    (r"\bbasically\s+", ""),
+    (r"\bliterally\s+", ""),
+    (r"\bobviously\s+", ""),
+    (r"\bkind of kind of\b", "kind of"),
+    (r"\bsort of sort of\b", "sort of"),
+    (r"\bbasically basically\b", "basically"),
+    (r"\bnow, now\b", "now"),
+    (r"\bNow, now\b", "Now"),
+    (r"\band and\b", "and"),
+    (r"\bAnd and\b", "And"),
+    (r"\bthe the\b", "the"),
+    (r"\bThe the\b", "The"),
+    (r"\bthat that\b", "that"),
+    (r"\bthis this\b", "this"),
+    (r"\bit it\b", "it"),
+    (r"\bwe we\b", "we"),
+    (r"\byou you\b", "you"),
+    (r"\bof of\b", "of"),
+    (r"\bto to\b", "to"),
+    (r"\bin in\b", "in"),
+    (r"\bon on\b", "on"),
+    (r"\bfor for\b", "for"),
+    (r"\bThere we go\.\s*", ""),
+    (r"\bWhy is it not working again\?\s*", ""),
+    (r"\bThat's twice I've pressed\.\s*", ""),
+    (r"\bThat's twice I have pressed\.\s*", ""),
+    (r"\bTell me\. May\. I'm sorry\.\s*", ""),
+    (r"\bMay\. I'm sorry\.\s*", ""),
+    (r"\bGo ahead and raise your hand\.\s*", ""),
+    (r"\bDoes that make sense to you\?\s*", ""),
+    (r"\bDo you understand what I say when I mean\b", "What I mean by"),
+    (r"\bDo you understand what I say when he sits\b", "What I mean when I say this is"),
+    (r"\bI want you know\b", "I want you to know"),
+    (r"\bI want you to like me after today\b", "I want you to still like me after today"),
+    (r"\bI don't want to tell you\b", "I want to tell you"),
+    (r"\bI can tell you what I understand from the scriptures\b", "I can tell you what I understand from Scripture"),
+    (r"\bthe scriptures\b", "Scripture"),
+    (r"\bscriptures\b", "Scripture"),
+    (r"\bwords of God\b", "word of God"),
+    (r"\bNew Testament Christian springing up\b", "New Testament Christians springing up"),
+    (r"\bdeath, burial, and resurrection\b", "death, burial, and resurrection"),
+    (r"\bgoes, did\b", "asks, did"),
+    (r"\bwould it Paul believe\?\b", "What did Paul believe?"),
+    (r"\bWould it Paul believe\?\b", "What did Paul believe?"),
+    (r"\bWhat Spirit\?\b", "What Spirit?"),
+    (r"\bWhat is he speaking about\?\s*Acts\b", "He is speaking about Acts"),
+    (r"\bWhat baptism we're talking about here\?\b", "What baptism are we talking about here?"),
+    (r"\bwhat baptism we're talking about here\?\b", "what baptism are we talking about here?"),
+    (r"\bPaul expect\b", "Paul expected"),
+    (r"\bour conditions laid down\b", "are conditions laid down"),
+    (r"\bour tongues said\b", "are tongues said"),
+    (r"\bconverse that be filled with the spirit\b", "contrast: be filled with the Spirit"),
+    (r"\bDo not I could drunk on wine which leads to debauchery instead knows the converse that be filled with the spirit\?", "Do not get drunk on wine, which leads to debauchery. Instead, notice the contrast: be filled with the Spirit."),
+    (r"\bI haven't taught in Holy Spirit\b", "I haven't taught on the Holy Spirit"),
+    (r"\bAnd so left and I taught it\.", "The last time I taught it,"),
+    (r"\bI just prepare your mind\b", "I want to prepare your mind"),
+    (r"\bthis is, this thing\b", "this is something"),
+    (r"\bThat was the asset\.", "That was the acid test."),
+    (r"\bThey had no about the Holy Spirit\.", "They did not know about the Holy Spirit."),
+    (r"\bthis people\b", "these people"),
+    (r"\bno only three times\b", "only three times"),
+    (r"\bLet's strike you\.", "Let that strike you."),
+    (r"\bSpirit incited\b", "Spirit-initiated"),
+    (r"\baudio visible\b", "audible, visible"),
+    (r"\bin some sort of, academic environment\b", "in some sort of academic environment"),
+    (r"\bHow can whether\b", "How can you know whether"),
+    (r"\bHow do that\b", "How do you know that"),
+    (r"\bHow do when\b", "How do you know when"),
+    (r"\bWhat difference make\b", "What difference does it make"),
+    (r"\bI'm not going to presume that anything\b", "I'm not going to presume that you know anything"),
+    (r"\bWould it Paul believe\?", "What did Paul believe?"),
+    (r"\bby the way the just so if\b", "if"),
+]
+
+
+def sentence_chunks(text: str) -> list[str]:
+    sentences = re.split(r"(?<=[.!?])\s+", text)
+    chunks: list[str] = []
+    current: list[str] = []
+    current_words = 0
+    for sentence in sentences:
+        sentence = sentence.strip()
+        if not sentence:
+            continue
+        words = len(sentence.split())
+        if current and current_words + words > 95:
+            chunks.append(" ".join(current))
+            current = []
+            current_words = 0
+        current.append(sentence)
+        current_words += words
+    if current:
+        chunks.append(" ".join(current))
+    return chunks
+
+
+def clean_html_transcript_paragraph(match: re.Match[str]) -> str:
+    opener, paragraph_html, closer = match.groups()
+    if "<" in paragraph_html:
+        return match.group(0)
+
+    text = html.unescape(paragraph_html)
+    text = text.replace("’", "'").replace("‘", "'").replace("“", '"').replace("”", '"')
+    text = text.replace("—", "-").replace("–", "-")
+    text = re.sub(r"\s+", " ", text).strip()
+    text = text.replace("Would it Paul believe?", "What did Paul believe?")
+    for pattern, replacement in HTML_TRANSCRIPT_REPLACEMENTS:
+        text = re.sub(pattern, replacement, text, flags=re.IGNORECASE if pattern.islower() else 0)
+    text = re.sub(r"\s+([,.?!;:])", r"\1", text)
+    text = re.sub(r"([,.?!;:])([A-Za-z])", r"\1 \2", text)
+    text = re.sub(r"\s{2,}", " ", text).strip()
+    if not text:
+        return f"{opener}{closer}"
+
+    paragraphs = "\n".join(f"<p>{html.escape(chunk, quote=False)}</p>" for chunk in sentence_chunks(text))
+    return f"{opener}{paragraphs}{closer}"
+
+
+def clean_html_transcripts(html_text: str) -> str:
+    html_text = html_text.replace(">Cleaned Transcript</h3>", ">Reader-Friendly Transcript</h3>")
+    return re.sub(
+        r'(<div id="class-\d\d-p\d{3}">\n)<p>(.*?)</p>(\n</div>)',
+        clean_html_transcript_paragraph,
+        html_text,
+        flags=re.S,
+    )
+
+
 def inject_html_script() -> None:
     html_text = HTML_OUT.read_text(encoding="utf-8")
+    html_text = clean_html_transcripts(html_text)
     if TOC_SCRIPT in html_text:
+        HTML_OUT.write_text(html_text, encoding="utf-8")
         return
     HTML_OUT.write_text(html_text.replace("</body>", f"{TOC_SCRIPT}\n</body>"), encoding="utf-8")
 
