@@ -265,20 +265,32 @@ font-size: .98rem;
 #TOC {
 position: sticky;
 top: 0;
-z-index: 5;
+z-index: 20;
+display: grid;
+grid-template-columns: minmax(0, 1fr) 2.75rem;
+align-items: center;
+gap: .65rem;
 width: 100%;
-max-height: 44vh;
+max-height: none;
 margin: 0 0 1.6rem;
+padding: .55rem .75rem;
 border-left: 0;
 border-right: 0;
 border-radius: 0;
-overflow: auto;
+overflow: visible;
 box-shadow: 0 8px 24px rgba(45, 40, 30, .12);
+}
+#TOC::before {
+margin: 0;
+color: #26322c;
+font-size: .86rem;
+letter-spacing: .07em;
 }
 .toc-toggle {
 appearance: none;
 width: 2.75rem;
 height: 2.75rem;
+display: inline-flex;
 align-items: center;
 justify-content: center;
 border: 1px solid var(--line-strong);
@@ -300,32 +312,25 @@ background: currentColor;
 .toc-toggle span {
 margin: 4px 0;
 }
-body.toc-compact #TOC {
-display: flex;
-flex-direction: column;
-align-items: flex-end;
-max-height: none;
-min-height: 3.6rem;
-padding: .4rem .75rem;
-overflow: visible;
-}
-body.toc-compact #TOC::before,
-body.toc-compact:not(.toc-open) #TOC ul {
+#TOC ul {
 display: none;
 }
-body.toc-compact .toc-toggle {
-display: inline-flex;
-}
-body.toc-compact.toc-open #TOC {
-max-height: 76vh;
+body.toc-open #TOC {
+max-height: 78vh;
 overflow: auto;
-align-items: stretch;
 }
-body.toc-compact.toc-open #TOC::before {
+body.toc-open #TOC ul {
 display: block;
-}
-body.toc-compact.toc-open #TOC ul {
+grid-column: 1 / -1;
 width: 100%;
+max-height: calc(78vh - 4.8rem);
+margin: .15rem 0 0;
+padding-top: .65rem;
+border-top: 1px solid var(--line);
+overflow: auto;
+}
+body.toc-open #TOC li {
+margin: .48rem 0;
 }
 h1 {
 font-size: 2.05rem;
@@ -9773,18 +9778,10 @@ discussed.</p>
   button.innerHTML = "<span></span>";
   toc.insertBefore(button, toc.firstChild);
 
-  var compactStart = toc.offsetTop + 80;
-
   function setOpen(open) {
     document.body.classList.toggle("toc-open", open);
     button.setAttribute("aria-expanded", open ? "true" : "false");
     button.setAttribute("aria-label", open ? "Close contents" : "Open contents");
-  }
-
-  function updateCompactState() {
-    var compact = window.matchMedia("(max-width: 760px)").matches && window.scrollY > compactStart;
-    document.body.classList.toggle("toc-compact", compact);
-    if (!compact) setOpen(false);
   }
 
   button.addEventListener("click", function () {
@@ -9795,12 +9792,9 @@ discussed.</p>
     if (event.target.closest("a")) setOpen(false);
   });
 
-  window.addEventListener("scroll", updateCompactState, { passive: true });
-  window.addEventListener("resize", function () {
-    compactStart = toc.offsetTop + 80;
-    updateCompactState();
+  document.addEventListener("keydown", function (event) {
+    if (event.key === "Escape") setOpen(false);
   });
-  updateCompactState();
 })();
 </script>
 </body>
