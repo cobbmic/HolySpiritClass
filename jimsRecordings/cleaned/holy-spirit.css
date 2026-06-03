@@ -212,6 +212,9 @@ th {
 #TOC > ul { padding-left: 0; }
 #TOC li { margin: .34rem 0; }
 #TOC > ul > li > a { display: none; }
+.toc-toggle {
+  display: none;
+}
 
 @media (min-width: 1120px) {
   body {
@@ -284,6 +287,67 @@ th {
     border-radius: 0;
     overflow: auto;
     box-shadow: 0 8px 24px rgba(45, 40, 30, .12);
+  }
+
+  .toc-toggle {
+    appearance: none;
+    width: 2.75rem;
+    height: 2.75rem;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid var(--line-strong);
+    border-radius: 8px;
+    background: var(--panel);
+    color: var(--green);
+    cursor: pointer;
+  }
+
+  .toc-toggle span,
+  .toc-toggle::before,
+  .toc-toggle::after {
+    content: "";
+    display: block;
+    width: 1.25rem;
+    height: 2px;
+    border-radius: 999px;
+    background: currentColor;
+  }
+
+  .toc-toggle span {
+    margin: 4px 0;
+  }
+
+  body.toc-compact #TOC {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    max-height: none;
+    min-height: 3.6rem;
+    padding: .4rem .75rem;
+    overflow: visible;
+  }
+
+  body.toc-compact #TOC::before,
+  body.toc-compact:not(.toc-open) #TOC ul {
+    display: none;
+  }
+
+  body.toc-compact .toc-toggle {
+    display: inline-flex;
+  }
+
+  body.toc-compact.toc-open #TOC {
+    max-height: 76vh;
+    overflow: auto;
+    align-items: stretch;
+  }
+
+  body.toc-compact.toc-open #TOC::before {
+    display: block;
+  }
+
+  body.toc-compact.toc-open #TOC ul {
+    width: 100%;
   }
 
   h1 {

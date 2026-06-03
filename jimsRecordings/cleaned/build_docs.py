@@ -1337,6 +1337,9 @@ th {
 #TOC > ul { padding-left: 0; }
 #TOC li { margin: .34rem 0; }
 #TOC > ul > li > a { display: none; }
+.toc-toggle {
+  display: none;
+}
 
 @media (min-width: 1120px) {
   body {
@@ -1411,6 +1414,67 @@ th {
     box-shadow: 0 8px 24px rgba(45, 40, 30, .12);
   }
 
+  .toc-toggle {
+    appearance: none;
+    width: 2.75rem;
+    height: 2.75rem;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid var(--line-strong);
+    border-radius: 8px;
+    background: var(--panel);
+    color: var(--green);
+    cursor: pointer;
+  }
+
+  .toc-toggle span,
+  .toc-toggle::before,
+  .toc-toggle::after {
+    content: "";
+    display: block;
+    width: 1.25rem;
+    height: 2px;
+    border-radius: 999px;
+    background: currentColor;
+  }
+
+  .toc-toggle span {
+    margin: 4px 0;
+  }
+
+  body.toc-compact #TOC {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    max-height: none;
+    min-height: 3.6rem;
+    padding: .4rem .75rem;
+    overflow: visible;
+  }
+
+  body.toc-compact #TOC::before,
+  body.toc-compact:not(.toc-open) #TOC ul {
+    display: none;
+  }
+
+  body.toc-compact .toc-toggle {
+    display: inline-flex;
+  }
+
+  body.toc-compact.toc-open #TOC {
+    max-height: 76vh;
+    overflow: auto;
+    align-items: stretch;
+  }
+
+  body.toc-compact.toc-open #TOC::before {
+    display: block;
+  }
+
+  body.toc-compact.toc-open #TOC ul {
+    width: 100%;
+  }
+
   h1 {
     font-size: 2.05rem;
     margin-top: 2.2rem;
@@ -1456,6 +1520,61 @@ th {
     )
 
 
+TOC_SCRIPT = """
+<script>
+(function () {
+  var toc = document.getElementById("TOC");
+  if (!toc) return;
+
+  var button = document.createElement("button");
+  button.className = "toc-toggle";
+  button.type = "button";
+  button.setAttribute("aria-controls", "TOC");
+  button.setAttribute("aria-expanded", "false");
+  button.setAttribute("aria-label", "Open contents");
+  button.innerHTML = "<span></span>";
+  toc.insertBefore(button, toc.firstChild);
+
+  var compactStart = toc.offsetTop + 80;
+
+  function setOpen(open) {
+    document.body.classList.toggle("toc-open", open);
+    button.setAttribute("aria-expanded", open ? "true" : "false");
+    button.setAttribute("aria-label", open ? "Close contents" : "Open contents");
+  }
+
+  function updateCompactState() {
+    var compact = window.matchMedia("(max-width: 760px)").matches && window.scrollY > compactStart;
+    document.body.classList.toggle("toc-compact", compact);
+    if (!compact) setOpen(false);
+  }
+
+  button.addEventListener("click", function () {
+    setOpen(!document.body.classList.contains("toc-open"));
+  });
+
+  toc.addEventListener("click", function (event) {
+    if (event.target.closest("a")) setOpen(false);
+  });
+
+  window.addEventListener("scroll", updateCompactState, { passive: true });
+  window.addEventListener("resize", function () {
+    compactStart = toc.offsetTop + 80;
+    updateCompactState();
+  });
+  updateCompactState();
+})();
+</script>
+""".strip()
+
+
+def inject_html_script() -> None:
+    html_text = HTML_OUT.read_text(encoding="utf-8")
+    if TOC_SCRIPT in html_text:
+        return
+    HTML_OUT.write_text(html_text.replace("</body>", f"{TOC_SCRIPT}\n</body>"), encoding="utf-8")
+
+
 def run_pandoc() -> None:
     html_cmd = [
         "pandoc",
@@ -1476,6 +1595,7 @@ def run_pandoc() -> None:
         str(HTML_OUT),
     ]
     subprocess.run(html_cmd, check=True, cwd=ROOT)
+    inject_html_script()
 
     pdf_cmd = [
         "pandoc",
